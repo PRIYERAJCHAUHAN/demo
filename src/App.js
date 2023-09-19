@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Monday 
+         Monday means Mangalwar
         </p>
         <a
           className="App-link"
